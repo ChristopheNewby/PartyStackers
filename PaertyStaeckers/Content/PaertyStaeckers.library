@@ -1,0 +1,7 @@
+ContentLibrary = 
+{
+	string Name = "PaertyStaeckers",
+	uint64 LibraryId = 5672169bba87bbb2,
+	string SourceControlType = "",
+	bool ReadOnly = false,
+},
